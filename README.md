@@ -1,2 +1,7 @@
-# SO_Tarea_Servicio
-Este repositorio contiene la tarea de servicios de Linux del curso de Principios de Sistemas Operativos, II Semestre 2024
+# Principios de Sistemas Operativos: Tarea de Servicios de Linux
+
+## Integrantes:
+
+- Marco Herrera González
+- Ariana Alvarado Molina
+- María Paula Bolaños Apú.
